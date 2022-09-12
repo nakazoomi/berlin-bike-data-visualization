@@ -1,0 +1,10 @@
+DEVELOPMENT STEPS:
+
+- Display the map with react-map-gl library
+- Show Berlin on the map and make it static 
+- Use deck.gl to visualize the data points as scatter plots on the map 
+- Show the value of a given point by increasing the radius
+- Display all data points in one static color
+
+- Show tooltip and the date on the current bike count when hovering over the data points
+- Add a functionality that allows the user to narrow down the displayed data to some time range defined by a start and end date

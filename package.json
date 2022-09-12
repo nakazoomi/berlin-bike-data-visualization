@@ -1,0 +1,31 @@
+{
+  "name": "berlin-bike-data-visualization",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@loaders.gl/core": "^3.2.9",
+    "@loaders.gl/csv": "^3.2.9",
+    "deck.gl": "^8.8.9",
+    "i": "^0.3.7",
+    "next": "^12.1.5",
+    "next-videos": "^1.5.0",
+    "npm": "^8.19.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
+    "react-map-gl": "^7.0.19"
+  },
+  "devDependencies": {
+    "eslint": "8.5.0",
+    "eslint-config-next": "12.0.7",
+    "sass": "^1.45.1"
+  },
+  "resolutions": {
+    "webpack": "5.0.0"
+  }
+}

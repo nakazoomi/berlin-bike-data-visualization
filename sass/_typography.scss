@@ -1,0 +1,55 @@
+/**************************************************************************/
+/* FONT FAMILIES */
+
+@font-face {
+  font-family: 'Inter-Regular';
+  src: url('/fonts/Inter/WOFF2/Inter-Regular.woff2') format('woff2'),
+    url('/fonts/Inter/WOFF/Inter-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Inter-Medium';
+  src: url('/fonts/Inter/WOFF2/Inter-Medium.woff2') format('woff2'),
+    url('/fonts/Inter/WOFF/Inter-Medium.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Inter-Bold';
+  src: url('/fonts/Inter/WOFF2/Inter-Bold.woff2') format('woff2'),
+    url('/fonts/Inter/WOFF/Inter-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Inter-Black';
+  src: url('/fonts/Inter/WOFF2/Inter-Black.woff2') format('woff2'),
+    url('/fonts/Inter/WOFF/Inter-Black.woff') format('woff');
+}
+
+/**************************************************************************/
+/* TYPOGRAPHY */
+
+h1 {
+  font-family: 'Inter-Black', sans-serif;
+  font-size: 3rem;
+  color: #000;
+}
+
+h2 {
+  font-family: 'Inter-Regular', sans-serif;
+  font-size: 1.5rem;
+  color: #000;
+}
+
+p {
+  font-family: 'Inter-Regular', sans-serif;
+  font-size: 1.125rem;
+  line-height: normal;
+  color: #000;
+}
+
+a {
+  font-family: 'Inter-Regular', sans-serif;
+  font-size: 1.25rem;
+  line-height: normal;
+  color: #000;
+}
